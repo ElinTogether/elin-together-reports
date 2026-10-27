@@ -1,0 +1,443 @@
+Mono path[0] = 'C:/Program Files (x86)/Steam/steamapps/common/Elin/Elin_Data/Managed'
+Mono config path = 'C:/Program Files (x86)/Steam/steamapps/common/Elin/MonoBleedingEdge/etc'
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Elin/Elin_Data/MonoBleedingEdge/data-0000015F17AE20A0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Elin/Elin_Data/MonoBleedingEdge/data-0000015F1D02D040.dll
+[Physics::Module] Initialized MultithreadedJobDispatcher with {0} workers.
+Initialize engine version: 2021.3.45f2 (88f88f591b2e)
+[Subsystems] Discovering subsystems at path C:/Program Files (x86)/Steam/steamapps/common/Elin/Elin_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1; jobified=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 620 (ID=0x5917)
+    Vendor:   Intel
+    VRAM:     10177 MB
+    Driver:   31.0.101.2134
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.247 seconds
+ERROR: Shader Custom/UI/RadialBlur shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Applibot/UI/Dissolve shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.369200 ms
+[Message: Preloader] BepInEx 6.0.0-pre.1 - Elin
+[Info   :   BepInEx] System platform: Windows 10 64-bit
+[Info   :   BepInEx] Process bitness: 64-bit (x64)
+[Info   : Preloader] Running under Unity v2021.3.45.8976527
+[Info   : Preloader] CLR runtime version: 4.0.30319.42000
+[Info   : Preloader] Supports SRE: True
+[Message: Preloader] Preloader started
+[Info   :AssemblyPatcher] Loaded 1 patcher type from [BepInEx.Preloader.Unity 6.0.0.0]
+[Info   : Preloader] 1 patcher plugin loaded
+[Info   : Preloader] 155 assemblies discovered
+[Message:AssemblyPatcher] Executing 1 patch(es)
+[Message: Preloader] Preloader finished
+[Message:   BepInEx] Chainloader initialized
+[Info   :   BepInEx] 1 plugin to load
+[Info   :   BepInEx] Loading [Package Chainloader 2.0.0]
+[Message:   BepInEx] Chainloader startup complete
+Core Awake
+Version:EA 23.356 Patch 1
+Init CorePath
+Copy User Folder:C:/Program Files (x86)/Steam/steamapps/common/Elin/Elin_Data/../User/  to  C:/Users/ciryl/AppData/LocalLow/Lafrontier/Elin/User/
+Copy Custom Folder:C:/Program Files (x86)/Steam/steamapps/common/Elin/Elin_Data/../Custom/  to  C:/Users/ciryl/AppData/LocalLow/Lafrontier/Elin/Custom/
+Initializing:LangGeneral
+Initializing:LangGame
+Initializing:LangList
+Initializing:LangNote
+Initializing:LangWord
+Commandline args:C:\PROGRAM FILES (X86)\STEAM\STEAMAPPS\COMMON\ELIN\ELIN.EXE
+Commandline args:SCREENFULLSCREEN
+Commandline args:0
+Commandline args:SCREENWIDTH
+Commandline args:1280
+Commandline args:SCREENHEIGHT
+Commandline args:720
+Commandline args:EMPMUTE
+2135150
+Local User: Elin Together:1
+Initalizing Steam Input System
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 6283.
+Total: 34.934700 ms (FindLiveObjects: 0.875700 ms CreateObjectMapping: 0.774000 ms MarkObjects: 33.212400 ms  DeleteObjects: 0.071600 ms)
+
+#io LoadFile;C:/Users/ciryl/AppData/LocalLow/Lafrontier/Elin/Save//config.txt
+Loading Config:C:/Users/ciryl/AppData/LocalLow/Lafrontier/Elin/Save//config.txt - CoreConfig
+StartCase:False
+Initializing ModManager:_Elona/C:/Program Files (x86)/Steam/steamapps/common/Elin/Elin_Data/../Package/
+IsOffline:False
+Workshop:C:\Program Files (x86)\Steam\steamapps\common\Elin\../../workshop/content/2135150
+Packages:C:/Program Files (x86)/Steam/steamapps/common/Elin/Elin_Data/../Package/
+Core Mod:C:/Program Files (x86)/Steam/steamapps/common/Elin/Elin_Data/../Package/_Elona/
+Loading local Package...
+Loading user Custom...
+Portrait: 2
+Loading workshop contents...
+Initializing mods...
+Elin Modding Kit/elin.plugins.modding/True/C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_ModdingKit
+Chinese Language/elin_language_chinese/True/C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Chinese
+Elin Core/elin_core1/True/C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Elona
+Visible Equipment/ciryl.elin.visibleequipment/True/C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\Mod_VisibleEquipment
+Portrait Specification Framework Local Settings/android_specific_portraits_settings/True/C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\Mod_Specific_Portraits_Settings
+Slot/elin_minigame_slot/True/C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\Mod_Slot
+Elin Together (Beta)/dk.elinplugins.elintogether/True/C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\Mod_ElinTogether
+TpStackableSpellbook/tp_stackable_spellbook/True/C:\Program Files (x86)\Steam\steamapps\workshop\content\2135150\3358087231
+YK Framework/jp.cmbc.mod.elin.yk-framework/True/C:\Program Files (x86)\Steam\steamapps\workshop\content\2135150\3400020753
+Portraits of Adventurers/UN_adv_portrait_naruse/True/C:\Program Files (x86)\Steam\steamapps\workshop\content\2135150\3490569061
+Portraits of Adventurers2/adv_portrait_naruse6/True/C:\Program Files (x86)\Steam\steamapps\workshop\content\2135150\3536272458
+Dynamic Riding/zawmbie.dynamic.riding/True/C:\Program Files (x86)\Steam\steamapps\workshop\content\2135150\3548942723
+Elin Together (Beta)/dk.elinplugins.elintogether/True/C:\Program Files (x86)\Steam\steamapps\workshop\content\2135150\3773298709
+Somewhat Enhanced Display/maccha_coffee_somewhat_enhanced_display/True/C:\Program Files (x86)\Steam\steamapps\workshop\content\2135150\3781674985
+#mod duplicated id (dk.elinplugins.elintogether): using Mod_ElinTogether, ignoring 3773298709
+Total number of mods:14
+Activating Mods...
+Activating(1) : Elin Core/elin_core1
+C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Elona\Actor\PCC
+C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Elona\Actor\Sprite
+Portrait: 479
+Texture: 94
+Activating(2) : Elin Modding Kit/elin.plugins.modding
+LangMod: EN, CN, DE, ES, FR, KR, PTBR, RU, TR, VN, ZHTW
+Source Sheets: 2, EN
+Activating(3) : Chinese Language/elin_language_chinese
+Activating(4) : Slot/elin_minigame_slot
+Activating(5) : YK Framework/jp.cmbc.mod.elin.yk-framework
+Activating(6) : Portrait Specification Framework Local Settings/android_specific_portraits_settings
+Activating(7) : Elin Together (Beta)/dk.elinplugins.elintogether
+LangMod: EN, CN, JP
+Source Sheets: 1, EN
+Activating(10) : Somewhat Enhanced Display/maccha_coffee_somewhat_enhanced_display
+LangMod: EN, CN, JP
+Source Sheets: 1, JP
+Activating(11) : Dynamic Riding/zawmbie.dynamic.riding
+C:\Program Files (x86)\Steam\steamapps\workshop\content\2135150\3548942723\Actor\PCC
+Activating(12) : Portraits of Adventurers2/adv_portrait_naruse6
+Portrait: 44
+Activating(13) : TpStackableSpellbook/tp_stackable_spellbook
+Activating(14) : Portraits of Adventurers/UN_adv_portrait_naruse
+Portrait: 7
+#drama added new action parser 'i*' from 'Elin::DefaultDramaInvokeExtActionParser'
+#drama added new action parser 'invoke*' from 'Elin::DefaultDramaInvokeExtActionParser'
+#drama added new action parser 'eval' from 'Elin::DefaultDramaEvalActionParser'
+Failed to load the Steam App List: State = ProtocolError, Error Message = HTTP/1.1 404 Not Found
+Chain Loading Scripts: C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Elona
+[Info   :   BepInEx] 0 plugins to load
+[Message:   BepInEx] Chainloader startup complete
+Chain Loading Scripts: C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_ModdingKit
+[Info   :   BepInEx] 1 plugin to load
+[Info   :   BepInEx] Loading [Elin Scripting Kit 1.5.0]
+[Message:   BepInEx] Chainloader startup complete
+Chain Loading Scripts: C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Lang_Chinese
+[Info   :   BepInEx] 0 plugins to load
+[Message:   BepInEx] Chainloader startup complete
+Chain Loading Scripts: C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\Mod_Slot
+[Info   :   BepInEx] 1 plugin to load
+[Info   :   BepInEx] Loading [Slot 1.0.0]
+[Message:   BepInEx] Chainloader startup complete
+Chain Loading Scripts: C:\Program Files (x86)\Steam\steamapps\workshop\content\2135150\3400020753
+[Info   :   BepInEx] 1 plugin to load
+[Info   :   BepInEx] Loading [YK Framework 1.0.0]
+[Message:   BepInEx] Chainloader startup complete
+Chain Loading Scripts: C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\Mod_Specific_Portraits_Settings
+[Info   :   BepInEx] 0 plugins to load
+[Message:   BepInEx] Chainloader startup complete
+Chain Loading Scripts: C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\Mod_ElinTogether
+[Info   :   BepInEx] 1 plugin to load
+[Info   :   BepInEx] Loading [Elin Together 0.26.1091]
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Elin/Elin_Data/MonoBleedingEdge/data-0000015F83D1B010.dll
+[EMP][INFO-21:15:23] Debug listener bound to 27551
+[Message:   BepInEx] Chainloader startup complete
+Chain Loading Scripts: C:\Program Files (x86)\Steam\steamapps\workshop\content\2135150\3781674985
+[Info   :   BepInEx] 1 plugin to load
+[Info   :   BepInEx] Loading [Somewhat Enhanced Display 1.2.0]
+[Message:   BepInEx] Chainloader startup complete
+Chain Loading Scripts: C:\Program Files (x86)\Steam\steamapps\workshop\content\2135150\3548942723
+[Info   :   BepInEx] 1 plugin to load
+[Info   :   BepInEx] Loading [Elin Dynamic Riding 1.0.4]
+[Message:   BepInEx] Chainloader startup complete
+Chain Loading Scripts: C:\Program Files (x86)\Steam\steamapps\workshop\content\2135150\3536272458
+[Info   :   BepInEx] 0 plugins to load
+[Message:   BepInEx] Chainloader startup complete
+Chain Loading Scripts: C:\Program Files (x86)\Steam\steamapps\workshop\content\2135150\3358087231
+[Info   :   BepInEx] 1 plugin to load
+[Info   :   BepInEx] Loading [StackableSpellbook 1.0.0]
+[Message:   BepInEx] Chainloader startup complete
+Chain Loading Scripts: C:\Program Files (x86)\Steam\steamapps\workshop\content\2135150\3490569061
+[Info   :   BepInEx] 0 plugins to load
+[Message:   BepInEx] Chainloader startup complete
+#sprite replacer <base>/Lafrontier/Elin/Custom/Skin/test1
+#sprite replacer <base>/Lafrontier/Elin/Custom/Skin/test2
+#sprite replacer <base>/Lafrontier/Elin/Custom/Skin/test3
+StartCase:True
+Plugins:7
+UnityEngine.CoreModule
+PackageLoader
+ElinModdingKit
+ElinModdingKit
+Minigame.CustomSlots
+YKFramework
+ElinTogether
+ElinTogether
+SomewhatEnhancedDisplay
+ELIN_DynamicRiding
+TpStackableSpellbook
+SourceManager Init
+#io context: load Lafrontier/Elin/SourceCache/chunks/cache_manifest.chunk
+#source-cache version: V4, next retention: 28 day(s)
+#source resetting data...
+Initializing:SourceElement
+Initializing:SourceMaterial
+#source initialized data
+#io context: load Lafrontier/Elin/SourceCache/chunks/e8e3523940ab7bce3140d45eb5758e84f751e1b066025f72fd605ee8dec4ca12.chunkc
+#io context: load Lafrontier/Elin/SourceCache/chunks/44eaf245edbd4a7180882d2b4a169efe7a3440d49a79f54e0221ba6b04b1c5e7.chunkc
+#io context: load Lafrontier/Elin/SourceCache/chunks/a16c2960cefd489d828381e7c4ebaa1c5b7e739afe24c390c1df4bb86f86b77b.chunkc
+#io context: load Lafrontier/Elin/SourceCache/chunks/baddb2332b556fc9fd92a5680710cd4c2198f9f60f289bf1a582249cb9b446e3.chunkc
+#source workbook-cache Package/_ModdingKit/LangMod/EN/EScriptLang.xlsx:General:22
+#source workbook-cache Package/_ModdingKit/LangMod/EN/ModViewerLang.xlsx:General:61
+#source workbook-cache Package/Mod_ElinTogether/LangMod/EN/emp_localization.xlsx:General:542
+#source workbook-cache 2135150/3781674985/LangMod/JP/SourceSheet.xlsx:General:172
+#source resetting data...
+Initializing:SourceElement
+Initializing:LangGeneral
+#source-override: LangGeneral total/3592 -> unique/3509
+Initializing:LangGeneral
+#init Skipping sourceData.Init:LangGeneral
+#source initialized data
+#source finished importing workbooks
+Initializing:SourceElement
+#init Skipping sourceData.Init:SourceElement
+Initializing:SourceMaterial
+#init Skipping sourceData.Init:SourceMaterial
+Initializing:SourceChara
+Initializing:SourceThing
+Initializing:SourceThingV
+Initializing:SourceFood
+Initializing:SourceCheck
+Initializing:SourceRace
+Initializing:SourcePerson
+Initializing:SourceCategory
+Initializing:SourceSpawnList
+Initializing:SourceReligion
+Initializing:SourceFaction
+Initializing:SourceJob
+Initializing:SourceHobby
+Initializing:SourceFloor
+Initializing:SourceDeco
+Initializing:SourceBlock
+Initializing:SourceCellEffect
+Initializing:SourceObj
+Initializing:SourceStat
+Initializing:SourceArea
+Initializing:SourceZone
+Initializing:SourceZoneAffix
+Initializing:SourceResearch
+Initializing:SourceHomeResource
+Initializing:SourceGlobalTile
+Initializing:SourceQuest
+Initializing:SourceCharaText
+Initializing:SourceCalc
+Initializing:SourceRecipe
+Initializing:SourceBacker
+Initializing:SourceTactics
+Initializing:SourceKeyItem
+Initializing:/
+#UI ApplyScale:0,95
+Initializing:LangGeneral
+#init Skipping sourceData.Init:LangGeneral
+Initializing:LangGame
+#init Skipping sourceData.Init:LangGame
+Initializing:LangList
+#init Skipping sourceData.Init:LangList
+Initializing:LangNote
+#init Skipping sourceData.Init:LangNote
+Initializing:LangWord
+#init Skipping sourceData.Init:LangWord
+Loaded Font:GenEi/GenEi/using GenEiLateMinP_v2 (UnityEngine.Font)/EN/EN
+Loaded Font:GenEi/GenEi/using GenEiLateMinP_v2 (UnityEngine.Font)/EN/EN
+Loaded Font:Boku/Boku/using Boku2-Bold (UnityEngine.Font)/EN/EN
+Loaded Font:Austin/Austin/Austin (UnityEngine.Font)/EN/EN
+Initializing Langs: EN
+#io LoadFile;C:\Program Files (x86)\Steam\steamapps\workshop\content\2135150\3781674985\LangMod\EN\SourceLocalization.json
+#source-localization loaded all texts for EN (mods: 1)
+#io SaveFile;C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\Mod_ElinTogether\LangMod/EN/SourceLocalization.json
+#source-localization mod texts updated EN/dk.elinplugins.elintogether
+#pass New Batch  pass tile_floor snow/0/1023
+#pass New Batch  pass tile_floor/0/1023
+#pass New Batch  pass tile_block snow/0/1023
+#pass New Batch  pass tile_block/0/1023
+#pass New Batch  pass tile_roof/0/1023
+#pass New Batch  pass tile_liquid/0/1023
+#pass New Batch  pass tile_floor autotile/0/1023
+#pass New Batch  pass tile_edge/0/1023
+#pass New Batch  pass obj sub/0/1023
+#pass New Batch  pass obj snow/0/1023
+#pass New Batch  pass obj/0/1023
+#pass New Batch  pass obj_S sub/0/1023
+#pass New Batch  pass obj_S snow/0/1023
+#pass New Batch  pass obj_S/0/1023
+#pass New Batch  pass obj_L sub/0/1023
+#pass New Batch  pass obj_L snow/0/1023
+#pass New Batch  pass obj_L/0/1023
+#pass New Batch  pass decal/0/1023
+#pass New Batch  pass shadow/0/1023
+#pass New Batch  pass area/0/1023
+#pass New Batch  pass guide floor/0/1023
+#pass New Batch  pass guide block/0/1023
+#pass New Batch  pass tile_blockEx/0/1023
+#pass New Batch  pass tile_floorEx/0/1023
+#pass New Batch  pass guide block map/0/1023
+#pass New Batch  pass tile_block marker/0/1023
+#pass New Batch  pass tile_floor marker/0/1023
+#pass New Batch  pass tile_floorWater/0/1023
+#pass New Batch  pass obj_SS/0/1023
+#pass New Batch  pass icon/0/1023
+#pass New Batch  pass tile_block inner/0/1023
+#pass New Batch  pass fog/0/1023
+#pass New Batch  pass effect/0/1023
+#pass New Batch  pass chara sub/0/1023
+#pass New Batch  pass chara/0/1023
+#pass New Batch  pass charaL sub/0/1023
+#pass New Batch  pass charaL/0/1023
+#pass New Batch  pass tile_block in water/0/1023
+#pass New Batch  pass fov/0/1023
+#pass New Batch  pass tile_ramp/0/1023
+#pass New Batch  pass tile_floor autotile water/0/1023
+#pass New Batch  pass tile_floor shore/0/1023
+#pass New Batch  pass charaLL sub/0/1023
+#pass New Batch  pass charaLL/0/1023
+#pass New Batch  pass fog edge/0/1023
+#pass New Batch  pass charaLW sub/0/1023
+#pass New Batch  pass charaLW/0/1023
+Reloaded Texture:C:/Program Files (x86)/Steam/steamapps/common/Elin/Elin_Data/../Package/_Elona/Texture/blocks.png
+Reloaded Texture:C:/Program Files (x86)/Steam/steamapps/common/Elin/Elin_Data/../Package/_Elona/Texture/floors.png
+Reloaded Texture:C:/Program Files (x86)/Steam/steamapps/common/Elin/Elin_Data/../Package/_Elona/Texture/objs_SS.png
+Reloaded Texture:C:/Program Files (x86)/Steam/steamapps/common/Elin/Elin_Data/../Package/_Elona/Texture/objs_S.png
+Reloaded Texture:C:/Program Files (x86)/Steam/steamapps/common/Elin/Elin_Data/../Package/_Elona/Texture/objs.png
+Reloaded Texture:C:/Program Files (x86)/Steam/steamapps/common/Elin/Elin_Data/../Package/_Elona/Texture/objs_L.png
+Reloaded Texture:C:/Program Files (x86)/Steam/steamapps/common/Elin/Elin_Data/../Package/_Elona/Texture/roofs.png
+Reloaded Texture:C:/Program Files (x86)/Steam/steamapps/common/Elin/Elin_Data/../Package/_Elona/Texture/shadows.png
+Reloaded Texture:C:/Program Files (x86)/Steam/steamapps/common/Elin/Elin_Data/../Package/_Elona/Texture/fov.png
+Reloaded Texture:C:/Program Files (x86)/Steam/steamapps/common/Elin/Elin_Data/../Package/_Elona/Texture/objs_C.png
+Reloaded Texture:C:/Program Files (x86)/Steam/steamapps/common/Elin/Elin_Data/../Package/_Elona/Texture/objs_CL.png
+Reloaded Texture:C:/Program Files (x86)/Steam/steamapps/common/Elin/Elin_Data/../Package/_Elona/Texture/objs_CLL.png
+Reloaded Texture:C:/Program Files (x86)/Steam/steamapps/common/Elin/Elin_Data/../Package/_Elona/Texture/blocks_snow.png
+Reloaded Texture:C:/Program Files (x86)/Steam/steamapps/common/Elin/Elin_Data/../Package/_Elona/Texture/floors_snow.png
+Reloaded Texture:C:/Program Files (x86)/Steam/steamapps/common/Elin/Elin_Data/../Package/_Elona/Texture/objs_S_snow.png
+Reloaded Texture:C:/Program Files (x86)/Steam/steamapps/common/Elin/Elin_Data/../Package/_Elona/Texture/objs_snow.png
+Reloaded Texture:C:/Program Files (x86)/Steam/steamapps/common/Elin/Elin_Data/../Package/_Elona/Texture/objs_L_snow.png
+Reloaded Texture:C:/Program Files (x86)/Steam/steamapps/common/Elin/Elin_Data/../Package/_Elona/Texture/world.png
+Reloaded Texture:C:/Program Files (x86)/Steam/steamapps/common/Elin/Elin_Data/../Package/_Elona/Texture/bird1.png
+Scene.Init:Title
+C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Elona\Lang\EN/Data/intro.txt.txt
+#scripting using ElinModdingKit::EScriptProvider, api version 'using ℛ* compiler 5.3.0-2.26078.5+16f9bd284cd49604ac82998bfe778a8eb16d4347'
+using ℛ* compiler 5.3.0-2.26078.5+16f9bd284cd49604ac82998bfe778a8eb16d4347
+Reflex Rebuild
+Elin, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null3911/1,306562
+Plugins.Scripting, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null14/0,002140045
+ElinModdingKit, Version=1.5.0.4478, Culture=neutral, PublicKeyToken=null149/0,01806641
+ElinTogether, Version=0.26.1091.38155, Culture=neutral, PublicKeyToken=null1812/0,1946926
+Reflex, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null42/0,003938675
+#pipe external console opened \\.\pipe\Elin\Console
+Registered:MiniGame_Slot at C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\Mod_Slot
+[Info   :YK Framework] Plugin [YK Framework] is loaded!
+[EMP][VERB-21:15:31] Cleared temp folder
+#io context: load Lafrontier/Elin/ElinMP/chunks/config_version.chunk
+#file-watcher registered emp_config C:\Program Files (x86)\Steam\steamapps\common\Elin\BepInEx\config dk.elinplugins.elintogether.cfg
+#UI ApplyScale:0,95
+#mod-content added context menu entry 'Elin Together' from 'ElinTogether::OpenInternal'
+C:\Program Files (x86)\Steam\steamapps\common\Elin\Package\_Elona\Lang\EN/Text/Help/version.txt
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Elin/Elin_Data/MonoBleedingEdge/data-000001607B50C0B0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Elin/Elin_Data/MonoBleedingEdge/data-000001607B50B0A0.dll
+#io LoadFile;C:/Users/ciryl/AppData/LocalLow/Lafrontier/Elin/Save/world_lab/index.txt
+Loading: world_lab: C:/Users/ciryl/AppData/LocalLow/Lafrontier/Elin/Save/world_lab
+[EMP][INFO-21:16:05] Connection component removed
+[EMP][VERB-21:16:05] Cleared temp folder
+[EMP][INFO-21:16:05] Session reset to None
+#io LoadFile;C:/Users/ciryl/AppData/LocalLow/Lafrontier/Elin/Save/world_lab/index.txt
+#io game OnDeserializing
+#io CardManager OnDeserializing:
+#io CardManager OnDeserialized:53
+Rebuilding recipe list
+ApplyFix
+Scene.Init:StartGame
+Scene.Init:Zone
+Meadow/startSite/7/True/False/True
+/
+startSite/True/C:/Program Files (x86)/Steam/steamapps/common/Elin/Elin_Data/../Package/_Elona/Map/startSite.z
+True/False/False/
+loading map: imported? False regenerate? False
+#io LoadFile;C:/Users/ciryl/AppData/LocalLow/Lafrontier/Elin/Save/world_lab/7/map
+Map Load:None: C:/Users/ciryl/AppData/LocalLow/Lafrontier/Elin/Save/world_lab/7/
+Obj Important\-1_-1: TileId 65535 not found! GridPos(-1,-3) tilaData 0xFFFF
+Updating Quest:False
+Last Active:251657773
+#io context: chunk custom_religion_data does not exist
+#mod-content loading CustomZoneContent...
+#mod-content loading CustomCharaContent...
+#io context: load Elin/Save/world_lab/chunks/active_mods.chunkc
+#io context: load Elin/Save/world_lab/chunks/context_vars.chunkc
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Elin/Elin_Data/MonoBleedingEdge/data-0000016045295220.dll
+[EMP][INFO-21:17:25] Connection component removed
+[EMP][DBUG-21:17:34] Created source validation rules: flags=None, 15 sources, 6 plugins, 0 files
+[EMP][INFO-21:17:37] Compatibility guard set on Somewhat Enhanced Display
+[EMP][INFO-21:17:39] Compatibility guard set on Somewhat Enhanced Display
+[EMP][DBUG-21:17:39] Initialized new connection component of ElinNetHost
+[EMP][DBUG-21:17:39] Stopping server state update
+Start backup:world_lab
+C:/Users/ciryl/AppData/LocalLow/Lafrontier/Elin/Backup/world_lab
+Deleting excess backup:21/20
+Copying backup:
+[EMP][INFO-21:17:40] World world_lab hosted with 0.26.1091.38155 for the first time (was never hosted): the save was copied to the game's backups first
+[EMP][INFO-21:17:40] Creating steam Public lobby
+[EMP][DBUG-21:17:40] Starting local udp server at port 55556
+[EMP][DBUG-21:17:40] Ride ties read from the save: , kept for 0 player(s)
+[EMP][INFO-21:17:40] Server started
+[EMP][INFO-21:17:40] Steam lobby created
+[EMP][INFO-21:17:41] Lobby signed as the official Elin Together server
+[EMP][DBUG-21:17:41] Quest journal told at real 157.0s, unscaled 156.9s, frame 1337, tick 0
+[EMP][WARN-21:17:41] Removing quest from player chara 1 1 supply
+[EMP][DBUG-21:17:46] Received connection request from 76561198768728915
+[EMP][DBUG-21:17:46] Accepting connection request from 76561198768728915
+[EMP][VERB-21:17:46] Adding connection handle to poll group
+[EMP][INFO-21:17:46] Player {"PeerIndex": 2, "PlayerName": "<color=#e69f00></color>"} connected
+[EMP][INFO-21:17:46] A player joined the game.
+[EMP][DBUG-21:17:46] Handshake started for {"PeerIndex": 2, "PlayerName": "<color=#e69f00></color>"}, awaiting version report
+[EMP][DBUG-21:17:46] Player  76561190000000002 connected, claiming index 2
+[EMP][WARN-21:17:46] Dropping WorldStateDeltaList from {"PeerIndex": 2, "PlayerName": "<color=#e69f00></color>"} at handshake stage AwaitingVersion
+[EMP][INFO-21:17:47] Version verified for {"PeerIndex": 2, "PlayerName": "<color=#e69f00></color>"}: mod 0.26.1091.38155, game 0.23.356.1
+[EMP][DBUG-21:17:47] Requesting source validation from {"PeerIndex": 2, "PlayerName": "<color=#e69f00></color>"} (flags=None)
+[EMP][DBUG-21:17:48] Received source validation response from {"PeerIndex": 2, "PlayerName": "<color=#e69f00></color>"}
+[EMP][INFO-21:17:48] Source validation passed for {"PeerIndex": 2, "PlayerName": "<color=#e69f00></color>"}
+[EMP][INFO-21:17:48] Preparing player {"PeerIndex": 2, "PlayerName": "<color=#e69f00></color>"} for joining
+[EMP][DBUG-21:17:48] Remote character does not exist, request for new character generation
+[EMP][INFO-21:17:52] Received remote chara creation from player {"PeerIndex": 2, "PlayerName": "<color=#e69f00></color>"}
+[EMP][VERB-21:17:52] Skipping add-thing sync of 477 into uncached parent 476
+[EMP][VERB-21:17:52] Skipping add-thing sync of 476 into uncached parent 475
+[EMP][INFO-21:17:52] Sending save probe to player {"PeerIndex": 2, "PlayerName": "<color=#e69f00></color>"} for replication
+[EMP][DBUG-21:17:52] Reset remote on 474, was NoGoal, requested NoGoal
+#io game OnSerializing
+#io saving map:C:/Users/ciryl/AppData/LocalLow/Lafrontier/Elin/Save/world_lab/7/
+#io SaveFile;C:/Users/ciryl/AppData/LocalLow/Lafrontier/Elin/Save/world_lab/7/map
+[EMP][INFO-21:17:56] World and map Zone_startSite@0 sent together to 1 player(s)
+[EMP][DBUG-21:17:56] Element 57 removed on chara 474
+[EMP][DBUG-21:17:56] Element 56 removed on chara 474
+[EMP][DBUG-21:17:56] Element 55 removed on chara 474
+[EMP][DBUG-21:17:56] Element 64 removed on chara 474
+[EMP][DBUG-21:17:56] Element 65 removed on chara 474
+[EMP][DBUG-21:17:56] Element 6050 changed on chara 474: [1, 0, 0, 0]
+[EMP][DBUG-21:17:56] Element 6015 changed on chara 474: [1, 0, 0, 0]
+[EMP][DBUG-21:17:56] Element 6012 changed on chara 474: [1, 0, 0, 0]
+[EMP][DBUG-21:17:56] Element 6003 changed on chara 474: [1, 0, 0, 0]
+[EMP][DBUG-21:17:56] Element 135 changed on chara 474: [1, 0, 0, 0]
+[EMP][DBUG-21:18:01] Player {"PeerIndex": 2, "PlayerName": "<color=#e69f00></color>"} has finished zone replication
+[EMP][DBUG-21:18:01] Assigned zone sync position to player {"PeerIndex": 2, "PlayerName": "<color=#e69f00></color>"} at {"X": 57, "Z": 46}
+[EMP][DBUG-21:18:01] Quest journal told at real 177.0s, unscaled 177.0s, frame 1381, tick 43
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Elin/Elin_Data/MonoBleedingEdge/data-00000160455EE0F0.dll
+[EMP][DBUG-21:18:21] Quest journal told at real 197.0s, unscaled 197.0s, frame 1447, tick 109
+[EMP][DBUG-21:18:41] Quest journal told at real 217.2s, unscaled 217.2s, frame 1522, tick 183
+[EMP][DBUG-21:19:01] Quest journal told at real 237.3s, unscaled 237.3s, frame 1598, tick 259
+[EMP][DBUG-21:19:21] Quest journal told at real 257.4s, unscaled 257.4s, frame 1672, tick 333
+[EMP][DBUG-21:19:41] Quest journal told at real 277.4s, unscaled 277.4s, frame 1748, tick 409
+[EMP][DBUG-21:20:02] Quest journal told at real 298.2s, unscaled 298.2s, frame 1822, tick 483
+[EMP][DBUG-21:20:22] Quest journal told at real 318.4s, unscaled 318.4s, frame 1899, tick 560
+[EMP][DBUG-21:20:43] Quest journal told at real 338.6s, unscaled 338.5s, frame 1973, tick 634
